@@ -1,0 +1,25 @@
+{
+  "total_rows": 13305915,
+  "total_columns": 13,
+  "columns": [
+    "id",
+    "date",
+    "client_id",
+    "card_id",
+    "amount",
+    "use_chip",
+    "merchant_id",
+    "merchant_city",
+    "merchant_state",
+    "zip",
+    "mcc",
+    "errors",
+    "is_fraud"
+  ],
+  "memory_mb": 4339.147219657898,
+  "fraud_stats": {
+    "labeled": 8914963,
+    "fraudulent": 13332,
+    "legitimate": 13292583
+  }
+}

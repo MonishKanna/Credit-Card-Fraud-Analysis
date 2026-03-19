@@ -1,0 +1,32 @@
+{
+  "total_features": 26,
+  "features": [
+    "amount",
+    "transaction_hour",
+    "transaction_day",
+    "transaction_month",
+    "transaction_dayofweek",
+    "transaction_dayofyear",
+    "amount_log",
+    "amount_is_negative",
+    "is_online",
+    "is_swipe",
+    "card_amount_mean",
+    "card_amount_std",
+    "card_amount_min",
+    "card_amount_max",
+    "card_txn_count",
+    "card_unique_days",
+    "merchant_fraud_rate",
+    "merchant_txn_count",
+    "state_fraud_rate",
+    "state_txn_count",
+    "current_age",
+    "credit_score",
+    "yearly_income",
+    "customer_fraud_rate",
+    "amount_z_score",
+    "amount_vs_customer_avg"
+  ],
+  "target": "is_fraud_binary"
+}
