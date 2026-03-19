@@ -1,4 +1,3 @@
-# Credit-Card-Fraud-Analysis
 # Credit Card Fraud Detection System
 
 ## Project Overview
@@ -31,7 +30,7 @@ fraud-detection/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/fraud-detection.git
+git clone https://github.com/MonishKanna/fraud-detection.git
 cd fraud-detection
 ```
 
